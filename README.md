@@ -1,1 +1,1 @@
-# SIR_model_Maxplanck
+# SIR_model_MaxPlanck
