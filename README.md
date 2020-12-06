@@ -4,4 +4,4 @@
 By this notebook we have tried to first calculate main parameters of SIR model during time. For tis purpose we have applied a sliding window with size of 30 days.
 
 ## DATA
-For this model we have used COVId-19 data which data can be found here
+For this model we have used COVId-19 data which data can be found here [DATA](https://github.com/ard-data/2020-rki-archive).
