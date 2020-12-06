@@ -9,3 +9,5 @@ Data has not read in correct way, so some artifacts can be seen in time dependan
 
 # Results
 <img src="https://github.com/MahdiHedayatMahmoudi/SIR_model/blob/main/images/S.png" width="1200">
+<img src="https://github.com/MahdiHedayatMahmoudi/SIR_model/blob/main/images/IR.png" width="1200">
+<img src="https://github.com/MahdiHedayatMahmoudi/SIR_model/blob/main/images/BG.png" width="1200">
