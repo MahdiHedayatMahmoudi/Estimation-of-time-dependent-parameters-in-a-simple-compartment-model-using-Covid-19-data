@@ -1,4 +1,4 @@
-# SIR_model_MaxPlanck
+	# SIR_model_MaxPlanck
 
 ## Introduction
 By this notebook we have tried to first calculate main parameters of SIR model during time. For tis purpose we have applied a sliding window with size of 30 days.
