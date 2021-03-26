@@ -5,7 +5,7 @@ By this notebook we have tried to first calculate main parameters of SIR model d
 
 ## SIR model
 
-<img src="https://github.com/MahdiHedayatMahmoudi/SIR_model/blob/main/images/intro1.png" width="1200">
+<img src="https://github.com/MahdiHedayatMahmoudi/SIR_model/blob/main/images/SIR.pdf" width="1200">
 <img src="https://github.com/MahdiHedayatMahmoudi/SIR_model/blob/main/images/intro1.png" width="1200">
 <img src="https://github.com/MahdiHedayatMahmoudi/SIR_model/blob/main/images/intro2.png" width="1200">
 
